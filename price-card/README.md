@@ -1,3 +1,8 @@
+I have re-created the code from html to react kindly find the url of deployment as i unable to add new url to submit
+
+Deployment URL - [https://transcendent-rolypoly-55c43c.netlify.app/]
+gitHub URL - [https://github.com/Praveenmuthu4/B39WE---Price-cart/tree/main/price-card]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
